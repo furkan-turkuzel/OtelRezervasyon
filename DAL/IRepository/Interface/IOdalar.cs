@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Model;
+
+namespace DAL.IRepository.Üyeler
+{
+    interface IOdalar:IAdd<Oda>,IUpdate<Oda>,IDelete<Oda>,IGet<Oda>,IGetAll<Oda>
+    {
+    }
+}

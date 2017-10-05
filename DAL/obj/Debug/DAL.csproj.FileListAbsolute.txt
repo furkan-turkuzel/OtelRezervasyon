@@ -1,0 +1,12 @@
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\DAL.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\DAL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\obj\Debug\DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,16 @@
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\obj\Debug\OtelRezervasyonCodeFirstUI.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\OtelRezervasyonCodeFirstUI.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\OtelRezervasyonCodeFirstUI.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\OtelRezervasyonCodeFirstUI.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\DAL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\obj\Debug\OtelRezervasyonCodeFirstUI.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\OtelRezervasyonCodeFirstUI\obj\Debug\OtelRezervasyonCodeFirstUI.pdb

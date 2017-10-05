@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\BLL.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\obj\Debug\BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\obj\Debug\BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2013\Projects\OtelRezervasyonCodeFirst\BLL\bin\Debug\DAL.pdb
